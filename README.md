@@ -1,7 +1,7 @@
 # Proyecto: Sistema gastroinstestinal
 
 ## Información de los integrantes
-De la torre Gómez Johana Jazmin\[22211751]; l22211751@tectijuana.edu.mx
+De la torre Gómez Johana Jazmin \[22211751]; l22211751@tectijuana.edu.mx
 
 Garcia Murillo Karla Valeria \[22212385]; l22212385@tectijuana.edu.mx
 
