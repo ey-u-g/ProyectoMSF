@@ -78,3 +78,12 @@ El circuito equivalente sigue la misma lógica:
 6. Evidencia del análisis matemático: función de transferencia, error en estado estacionario y estabilidad en lazo abierto.
 7. Diagrama fisiológico en BioRender
 
+## Referencias
+\[1] Guyton, A. C., & Hall, J. E. (2020). Textbook of Medical Physiology (14.ª ed.). Elsevier.
+— Describe la generación de presión peristáltica, motilidad gástrica, función pilórica y distensibilidad del tracto digestivo.
+
+\[2] Johnson, L. R. (Ed.). (2019). Gastrointestinal Physiology (9.ª ed.). Elsevier.
+— Explica la actividad peristáltica, control neuromuscular y tránsito gastrointestinal.
+
+\[3] Camilleri, M. (2021). Gastroparesis: Etiology, clinical manifestations, and diagnosis. New England Journal of Medicine, 384(2), 138–147.
+— Revisa causas y fisiopatología de la hipomotilidad y vaciamiento gástrico lento.
