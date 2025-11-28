@@ -20,7 +20,7 @@ Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México.
 
 ## Descripción del proyecto 
-
+<div align="center">
 Sistema gastrointestinal 
 Sistema gastrointestinal — tránsito y actividad peristáltica 
 
