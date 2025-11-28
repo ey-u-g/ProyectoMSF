@@ -25,6 +25,7 @@ Sistema gastrointestinal
   
 Sistema gastrointestinal - tránsito y actividad peristáltica 
 </div>
+<p style="text-align: justify;">
 El sistema gastrointestinal, y en particular el proceso de propulsión y vaciamiento del contenido gástrico, puede describirse mediante un modelo dinámico que represente cómo las contracciones peristálticas impulsan el quimo hacia el intestino delgado. Aunque en la fisiología real intervienen complejos mecanismos neuromusculares y hormonales, el comportamiento global del tránsito puede aproximarse mediante un modelo de segundo orden que capture las relaciones entre la generación de presión peristáltica, el movimiento del contenido, su almacenamiento temporal y la inercia con la que responde ante las ondas contráctiles.
 
 
@@ -75,4 +76,4 @@ El circuito equivalente sigue la misma lógica:
 5. Imagen con los parámetros del controlador
 6. Evidencia del análisis matemático: función de transferencia, error en estado estacionario y estabilidad en lazo abierto.
 7. Diagrama fisiológico en BioRender
-
+</p>
