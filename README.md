@@ -19,4 +19,38 @@ Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México.
 
+## Descripción del proyecto 
+
+               Sistema gastrointestinal 
+Sistema gastrointestinal — tránsito y actividad peristáltica 
+
+El sistema gastrointestinal, y en particular el proceso de propulsión y vaciamiento del contenido gástrico, puede describirse mediante un modelo dinámico que represente cómo las contracciones peristálticas impulsan el quimo hacia el intestino delgado. Aunque en la fisiología real intervienen complejos mecanismos neuromusculares y hormonales, el comportamiento global del tránsito puede aproximarse mediante un modelo de segundo orden que capture las relaciones entre la generación de presión peristáltica, el movimiento del contenido, su almacenamiento temporal y la inercia con la que responde ante las ondas contráctiles.
+
+
+Para establecer esta analogía, se consideran las siguientes correspondencias fisiológicas:
+
+1.Generación activa de presión (fuente peristáltica):
+
+La musculatura lisa genera ondas periódicas de contracción que producen aumentos rítmicos de presión. En el modelo eléctrico, este comportamiento se representa mediante una fuente de presión dependiente del tiempo, cuya oscilación reproduce la dinámica del peristaltismo.
+
+2.Resistencia al flujo del quimo:
+
+La fricción interna del contenido, la viscosidad y el tono de los esfínteres (como el píloro) dificultan el avance del quimo. Esto se modela mediante resistores (R).
+Un aumento en la resistencia equivale fisiológicamente a un esfínter más cerrado, a un segmento rígido o a un tránsito enlentecido.
+
+3.Distensibilidad del tracto digestivo:
+
+Los segmentos gástricos e intestinales pueden expandirse y almacenar temporalmente volumen antes de ser movilizado por la siguiente onda peristáltica. Esta propiedad se representa mediante capacitancia (C).
+Un valor alto de C indica mayor elasticidad; uno bajo refleja rigidez o mala capacidad de acomodación.
+
+4.Inercia del bolo alimenticio:
+
+El contenido no cambia su velocidad de forma instantánea debido a su masa e inercia. Este comportamiento se representa mediante inductancia (L).
+La inductancia captura la resistencia del quimo a acelerarse o desacelerarse en respuesta a una onda de presión.
+
+5.Señal de entrada al sistema (actividad peristáltica): 
+En este modelo la señal de entrada es una función periódica de presión, correspondiente a las ondas peristálticas que avanzan a lo largo del tubo digestivo. En términos eléctricos, esta fuente oscilatoria obliga a las dos mallas RLC a responder dinámicamente con un patrón pulsátil y amortiguado.
+
+
+
 
