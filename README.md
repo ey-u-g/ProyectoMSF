@@ -70,5 +70,12 @@ El circuito equivalente sigue la misma lógica:
 4. Ambos segmentos están acoplados mediante una resistencia (Rₐ), que representa la interacción entre regiones contiguas.
 5. El flujo resultante sale hacia el siguiente segmento intestinal.
 
-
+## Lista de archivos incluidos en el repositorio
+1. Ensayo gráfico
+2. Cuaderno computacional de MATLAB [.mlx]
+3. Modelado de Simulink [.slx]
+4. Imágenes de las simulaciones [.pdf y .png]
+5. Imagen con los parámetros del controlador
+6. Evidencia del análisis matemático: función de transferencia, error en estado estacionario y estabilidad en lazo abierto.
+7. Diagrama fisiológico en BioRender
 
