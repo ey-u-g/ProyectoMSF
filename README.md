@@ -48,8 +48,21 @@ Un valor alto de C indica mayor elasticidad; uno bajo refleja rigidez o mala cap
 El contenido no cambia su velocidad de forma instantánea debido a su masa e inercia. Este comportamiento se representa mediante inductancia (L).
 La inductancia captura la resistencia del quimo a acelerarse o desacelerarse en respuesta a una onda de presión.
 
-5.Señal de entrada al sistema (actividad peristáltica): 
+# 5.Señal de entrada al sistema (actividad peristáltica): 
 En este modelo la señal de entrada es una función periódica de presión, correspondiente a las ondas peristálticas que avanzan a lo largo del tubo digestivo. En términos eléctricos, esta fuente oscilatoria obliga a las dos mallas RLC a responder dinámicamente con un patrón pulsátil y amortiguado.
+
+
+# Caso: Trastorno de hipomotilidad gástrica
+
+Los trastornos de hipomotilidad se caracterizan por una disminución de la fuerza, coordinación o frecuencia de las contracciones peristálticas. Cuando estas ondas se vuelven débiles o inefectivas, el estómago no genera la presión necesaria para impulsar el contenido hacia el intestino delgado. Esto produce un vaciamiento lento, acumulación prolongada del quimo y síntomas como saciedad temprana, distensión abdominal, náuseas y plenitud postprandial.
+La causa de la hipomotilidad puede variar: disfunción neuromuscular primaria, daño del nervio vago, miopatías gastrointestinales, alteraciones metabólicas o el efecto de medicamentos que reducen el tono del músculo liso. Independientemente del origen, el resultado fisiológico es similar: menor generación de fuerza propulsora y una respuesta dinámica del sistema más lenta y debilitada, que modifica el patrón normal de tránsito y compromete la eficiencia del vaciamiento gástrico.
+
+
+# Píloro
+
+El píloro constituye una zona de regulación crítica en el tránsito gastrointestinal. Sus funciones principales son impedir el reflujo del contenido intestinal hacia el estómago y controlar el paso de partículas alimentarias hacia el duodeno. El esfínter pilórico alterna entre relajación y contracción; permanece abierto la mayor parte del tiempo, permitiendo el avance de pequeñas cantidades de quimo. Cuando el duodeno comienza a llenarse, el aumento de presión causa el cierre del esfínter, regulando así la velocidad de vaciamiento. Debido a su estrechez natural, incluso en condiciones normales solo permite el paso de partículas pequeñas y bien emulsionadas. En el modelo eléctrico, su efecto restrictivo se representa mediante una resistencia.
+Distensibilidad
+La distensibilidad es la capacidad de las paredes del tracto digestivo para expandirse en respuesta a un aumento de volumen o presión. Se define como:
 
 
 
