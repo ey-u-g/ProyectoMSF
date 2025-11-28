@@ -5,7 +5,7 @@ De la torre Gómez Johana Jazmin\[22211751]; l22211751@tectijuana.edu.mx
 
 Garcia Murillo Karla Valeria \[22212385]; l22212385@tectijuana.edu.mx
 
-Lopez Lopez Santiago \[22211768];
+Lopez Lopez Santiago \[22212260]; l22212260@tectijuana.edu.mx
 
 Urbina Gómez Eliza Yasunari \[22211768]; l22211768@tectijuana.edu.mx
 
